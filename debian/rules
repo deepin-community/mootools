@@ -1,0 +1,13 @@
+#!/usr/bin/make -f
+%:
+	dh $@
+
+override_dh_auto_build:
+	yui-compressor mootools-core/mootools-core-nc.js -o mootools-core/mootools-core.min.js
+	yui-compressor mootools-core/mootools-core-server-nc.js -o mootools-core/mootools-core-server.min.js
+	yui-compressor mootools-more/mootools-more-nc.js -o mootools-more/mootools-more.min.js
+
+override_dh_auto_clean:
+	rm -f mootools-core/mootools-core.min.js
+	rm -f mootools-core/mootools-core-server.min.js
+	rm -f mootools-more/mootools-more.min.js

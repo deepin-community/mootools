@@ -1,0 +1,11 @@
+/usr/share/javascript/mootools/mootools-core.min.js /usr/share/javascript/mootools/mootools.js
+/usr/share/javascript/mootools/mootools-core.min.js /usr/share/javascript/mootools/mootools-core-jm.js
+/usr/share/javascript/mootools/mootools-core.min.js /usr/share/javascript/mootools/mootools-core-yc.js
+
+/usr/share/javascript/mootools/mootools-core-server.min.js /usr/share/javascript/mootools/mootools-server.js
+/usr/share/javascript/mootools/mootools-core-server.min.js /usr/share/javascript/mootools/mootools-core-server-jm.js
+/usr/share/javascript/mootools/mootools-core-server.min.js /usr/share/javascript/mootools/mootools-core-server-yc.js
+
+/usr/share/javascript/mootools/mootools-more.min.js /usr/share/javascript/mootools/mootools-more.js
+/usr/share/javascript/mootools/mootools-more.min.js /usr/share/javascript/mootools/mootools-more-jm.js
+/usr/share/javascript/mootools/mootools-more.min.js /usr/share/javascript/mootools/mootools-more-yc.js
